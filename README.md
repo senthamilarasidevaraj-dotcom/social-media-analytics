@@ -1,4 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24150739)
 # Programming with Python: Capstone - Social Media Analytics
 
 In this project, we analyzed a dataset comprising social media messages (tweets and Facebook posts) from United States politicians in 2013, spanning two days. We parsed the labels and text of the messages to add additional data on hashtag use, message sentiment, and poster identification, which can be used to compare politicians across several vectors.
